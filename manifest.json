@@ -1,1 +1,14 @@
-
+{
+  "apps": [
+    {
+      "id": "flow_downloader",
+      "name": "1TV Flow - Downloader",
+      "latest_version": "1.2.0",
+      "download_url": "https://github.com/your-username/flow-downloader/releases/download/v1.2.0/setup.exe",
+      "exe_name": "FlowDownloader.exe",
+      "description": "მედია ფაილების ჩამომტვირთავი და ფორმატერი სატელევიზიო სამუშაო პროცესისთვის.",
+      "changelog": "• დაემატა ავტომატური განახლების ფუნქცია\n• ოპტიმიზდა ჩამოტვირთვის სიჩქარე\n• გასწორდა მცირე ხარვეზები UI-ში",
+      "banner_url": "https://raw.githubusercontent.com/your-username/hub/main/assets/downloader_banner.jpg"
+    }
+  ]
+}
